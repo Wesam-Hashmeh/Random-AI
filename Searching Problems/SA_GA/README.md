@@ -1,6 +1,7 @@
 ## Accept four (4) command line arguments corresponding to two states / state capitals (initial and goal states) so your code could be executed with
 
-### python .py FILENAME ALGO P1 P2
+### RUN VIA COMMAND LINE by 
+- python .py FILENAME ALGO P1 P2
 
 ## where:
 
