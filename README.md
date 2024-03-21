@@ -1,6 +1,13 @@
 # Random-AI
 
-### This repo is for any random AI/ML/DS related activities that I do. Anything from :
-#### Notable Classwork
-#### Random Interesting Finds
-#### Testing Methods for Projects
+### Purpose
+
+This repository serves as a collection of various AI/ML/DS activities, including:
+
+- Cool (at least cool to me) classwork assignments 
+- Interesting discoveries
+- Testing methods for projects
+
+### Enjoy!
+
+Feel free to explore!
